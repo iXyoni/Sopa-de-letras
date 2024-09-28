@@ -1,0 +1,14 @@
+D:\S3\Estructura de datos\T1\Proyecto\Sopa\bin\Debug\net8.0\Sopa.exe
+D:\S3\Estructura de datos\T1\Proyecto\Sopa\bin\Debug\net8.0\Sopa.deps.json
+D:\S3\Estructura de datos\T1\Proyecto\Sopa\bin\Debug\net8.0\Sopa.runtimeconfig.json
+D:\S3\Estructura de datos\T1\Proyecto\Sopa\bin\Debug\net8.0\Sopa.dll
+D:\S3\Estructura de datos\T1\Proyecto\Sopa\bin\Debug\net8.0\Sopa.pdb
+D:\S3\Estructura de datos\T1\Proyecto\Sopa\obj\Debug\net8.0\Sopa.GeneratedMSBuildEditorConfig.editorconfig
+D:\S3\Estructura de datos\T1\Proyecto\Sopa\obj\Debug\net8.0\Sopa.AssemblyInfoInputs.cache
+D:\S3\Estructura de datos\T1\Proyecto\Sopa\obj\Debug\net8.0\Sopa.AssemblyInfo.cs
+D:\S3\Estructura de datos\T1\Proyecto\Sopa\obj\Debug\net8.0\Sopa.csproj.CoreCompileInputs.cache
+D:\S3\Estructura de datos\T1\Proyecto\Sopa\obj\Debug\net8.0\Sopa.dll
+D:\S3\Estructura de datos\T1\Proyecto\Sopa\obj\Debug\net8.0\refint\Sopa.dll
+D:\S3\Estructura de datos\T1\Proyecto\Sopa\obj\Debug\net8.0\Sopa.pdb
+D:\S3\Estructura de datos\T1\Proyecto\Sopa\obj\Debug\net8.0\Sopa.genruntimeconfig.cache
+D:\S3\Estructura de datos\T1\Proyecto\Sopa\obj\Debug\net8.0\ref\Sopa.dll
