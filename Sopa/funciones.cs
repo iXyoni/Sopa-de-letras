@@ -124,7 +124,7 @@ public void ImprimirSopa()
     {
         for (int j = 0; j < tamano; j++)
         {
-            if (Encontrar(i, j))
+            if (Pintar(i, j))
                 Console.ForegroundColor = ConsoleColor.Blue;
             else
                 Console.ForegroundColor = ConsoleColor.Gray;
@@ -134,7 +134,7 @@ public void ImprimirSopa()
         Console.WriteLine();
     }
 
-    // Llamar a la función de depuración para verificar las palabras y posiciones después del Clear
+    
     
 }
 
@@ -205,7 +205,7 @@ public void ImprimirSopa()
             }
         }
 
-        public bool Encontrar(int fila, int columna)
+        public bool Pintar(int fila, int columna)
         {
             foreach (var palabra in respuetasEncontradas)
             {
@@ -219,7 +219,7 @@ public void ImprimirSopa()
             return false;
         }
 
-        public bool PintarPalabra(string palabra)
+        public bool VerificarPalabra(string palabra)
 {
     // Verificar si la palabra ya fue encontrada previamente
     if (respuetasEncontradas.Contains(palabra))

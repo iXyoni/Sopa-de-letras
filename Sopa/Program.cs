@@ -14,6 +14,7 @@ class Sopa
                         "\n3. HARD"+
                         "\n0. SALIR");
         int nivel = int.Parse(Console.ReadLine());
+        Console.Clear();
 
         switch (nivel)
         {
@@ -33,7 +34,7 @@ class Sopa
 
                 Console.Write($"Palabras restantes:{easy.palabrarest} ");
                 string respuesta = Console.ReadLine().ToLower();
-                easy.PintarPalabra(respuesta);
+                easy.VerificarPalabra(respuesta);
                 Console.Clear();
                 }
                 break;
@@ -48,10 +49,9 @@ class Sopa
                     goto Menu;
                 } 
                 medium.ImprimirSopa();
-
                 Console.Write($"Palabras restantes:{medium.palabrarest} ");
                 string respuesta = Console.ReadLine().ToLower();
-                medium.PintarPalabra(respuesta);
+                medium.VerificarPalabra(respuesta);
                 Console.Clear();
                 }
                 break;
@@ -69,7 +69,7 @@ class Sopa
 
                 Console.Write($"Palabras restantes:{hard.palabrarest} ");
                 string respuesta = Console.ReadLine().ToLower();
-                hard.PintarPalabra(respuesta);
+                hard.VerificarPalabra(respuesta);
                 Console.Clear();
                 }
                 break;
