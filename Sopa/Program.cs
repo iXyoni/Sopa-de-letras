@@ -23,7 +23,7 @@ class Sopa
 
             case 1:
                 sopaFunciones easy = new sopaFunciones(20,15);
-                easy.cargarPalabras("C:\\sopa\\easy.txt", 15);
+                easy.cargarPalabras("easy.txt", 15);
                 easy.llenarSopa();
                 while(true){
                 if (easy.palabrarest == 0){
@@ -41,7 +41,7 @@ class Sopa
 
             case 2:
                 sopaFunciones medium = new sopaFunciones(30,20);
-                medium.cargarPalabras("C:\\sopa\\medium.txt", 20);
+                medium.cargarPalabras("medium.txt", 20);
                 medium.llenarSopa();
                 while(true){
                 if (medium.palabrarest == 0){
@@ -58,7 +58,7 @@ class Sopa
 
             case 3:
             sopaFunciones hard = new sopaFunciones(50,30);
-                hard.cargarPalabras("C:\\sopa\\hard.txt", 30);
+                hard.cargarPalabras("hard.txt", 30);
                 hard.llenarSopa();
                 while(true){
                 if (hard.palabrarest == 0){
@@ -73,7 +73,7 @@ class Sopa
                 Console.Clear();
                 }
                 break;
-
+                
             default:
                 Console.WriteLine("Nivel no reconocido.");
                 return;

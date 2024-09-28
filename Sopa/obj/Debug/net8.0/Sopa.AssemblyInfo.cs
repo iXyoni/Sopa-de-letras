@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sopa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+785d9ca27475c02332736319fbc80f2a0e002a25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64b88284b208e88a0ad7dceade4c041d2cbab582")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sopa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sopa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
