@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\S3\\Estructura de datos\\T1\\Proyecto\\Sopa\\Sopa.csproj",
+      "projectUniqueName": "C:\\Users\\angel\\Documents\\Tec\\Sopa de letras\\Sopa\\Sopa.csproj",
       "projectName": "Sopa",
-      "projectPath": "D:\\S3\\Estructura de datos\\T1\\Proyecto\\Sopa\\Sopa.csproj",
+      "projectPath": "C:\\Users\\angel\\Documents\\Tec\\Sopa de letras\\Sopa\\Sopa.csproj",
       "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-      "outputPath": "D:\\S3\\Estructura de datos\\T1\\Proyecto\\Sopa\\obj\\",
+      "outputPath": "C:\\Users\\angel\\Documents\\Tec\\Sopa de letras\\Sopa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config"
