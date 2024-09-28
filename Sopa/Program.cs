@@ -26,7 +26,7 @@ class Sopa
                 easy.llenarSopa();
                 while(true){
                 if (easy.palabrarest == 0){
-                    Console.WriteLine("Excelente, has ganado bebe");
+                    Console.WriteLine("Excelente, has ganado mi amor");
                     goto Menu;
                 } 
                 easy.ImprimirSopa();
